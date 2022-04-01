@@ -1,4 +1,4 @@
-# PhoenixAPICallTester
+# PhoenixAPICallTester (0.1.8118)
 
 PhoenixAPICallTester is a Desktop Application used for API Testing.
 
@@ -6,7 +6,7 @@ PhoenixAPICallTester is a Desktop Application used for API Testing.
 
 With the impossibility of installing new applications on servers, it was necessary to create a standalone .exe application to test API requests.
 
-In addition, this application also makes possible testing API requests using proxy and credentials authentication with custom code, changing calls behavior for testing if needed.
+In addition, this application also makes possible testing API requests using proxy and credentials authentication.
 
 ### Features:
  - Request:
@@ -28,10 +28,7 @@ In addition, this application also makes possible testing API requests using pro
 
 ## Requirements
 
-- .Net Framework 4.5.2
-- NuGet packages:
-	- [Humanizer.Core (2.14.1)](https://www.nuget.org/packages/Humanizer.Core/2.14.1)
-	- [RestSharp (105.2.3)](https://www.nuget.org/packages/RestSharp/105.2.3)
+- .Net Framework 4.5.2 Runtime
 
 *It was necessary to use same Framework version than Phoenix for a better simulation.*
 
